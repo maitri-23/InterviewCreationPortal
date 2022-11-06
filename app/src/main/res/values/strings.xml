@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Interview Creation Portal</string>
+    <string name="users">users</string>
+    <string name="interview_creation_portal">INTERVIEW CREATION PORTAL</string>
+    <string name="add_user">ADD USER</string>
+    <string name="add_meeting">add_meeting</string>
+    <string name="add_a_new_user">ADD A NEW USER</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="no_network">No Network Connection Available</string>
+    <string name="empty_field_name">Name field cannot be empty!</string>
+    <string name="empty_field_email">Email field cannot be empty!</string>
+    <string name="invalid_email_address">Not a valid Email address!</string>
+    <string name="user_uploaded_to_firebase">New User Added  In Server</string>
+    <string name="add_a_new_meeting">ADD A NEW MEETING</string>
+    <string name="enter_name_of_meeting">Enter Name Of The Meeting</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="choose_start_time">Choose Start Time</string>
+    <string name="choose_end_time">CHOOSE END TIME</string>
+    <string name="meeting">meeting</string>
+    <string name="meeting_uploaded_to_firebase">Meeting Uploaded To Firebase</string>
+    <string name="meeting_name">Meeting Name</string>
+    <string name="end_time">End Time</string>
+    <string name="start_time">Start Time</string>
+    <string name="add_users_to_the_meeting">ADD USERS TO THE MEETING</string>
+    <string name="selectContact">Select Users From the List</string>
+    <string name="confirm">Confirm</string>
+    <string name="user_name">User Name</string>
+    <string name="slots">slots</string>
+    <string name="collision_found">Collision of timeslots detected!</string>
+    <string name="display_meeting">DISPLAY OF A MEETING</string>
+    <string name="update_meeting">Update Meeting</string>
+    <string name="delete_meeting">DELETE MEETING</string>
+    <string name="delete_title">Are you sure you want to Delete it?</string>
+    <string name="delete_heading">Once deleted, this action cannot be undone.</string>
+    <string name="ok">OK</string>
+    <string name="UPDATE_A_MEETING">UPDATE A MEETING</string>
+    <string name="UPDATE_MEETING">UPDATE MEETING</string>
+
+</resources>

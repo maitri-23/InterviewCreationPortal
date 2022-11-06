@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359497005212",
+    "project_id": "interview-creation-porta-77c00",
+    "storage_bucket": "interview-creation-porta-77c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359497005212:android:ca7724e7357fd5ff0b5559",
+        "android_client_info": {
+          "package_name": "com.example.interviewcreationportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359497005212-05otli9a4jk5qcbc4ptm6p1egncp2agv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0ywaqwk-Il7DWacHJniRzpyW3mVJhCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359497005212-05otli9a4jk5qcbc4ptm6p1egncp2agv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
