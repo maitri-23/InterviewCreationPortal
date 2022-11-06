@@ -52,6 +52,6 @@ dependencies {
     // Dependency for the Realtime Database library
     implementation 'com.google.firebase:firebase-database-ktx'
     // UI dependency for gradient buttons
-    implementation 'com.github.bartbergmans:GradientButton:1.0.0'
+    //implementation 'com.github.bartbergmans:GradientButton:1.0.0'
     implementation 'com.yarolegovich:lovely-dialog:1.1.1'
 }
